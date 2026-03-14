@@ -3,7 +3,7 @@
 ## Student Information
 Name: Najnin Sultana  
 Course: iOS Development  
-Lab: Lab 1  
+Lab: Assignment 1 
 Platform: iOS (SwiftUI)  
 IDE: Xcode  
 
@@ -63,7 +63,26 @@ After **every 10 attempts**, the app displays a dialog showing:
 - Wrong Answers
 
 ---
+---
 
+## Prime Number Logic
+
+A number is considered **Prime** if:
+
+- it is greater than **1**
+- it has **only two divisors**: 1 and itself
+
+Example:
+
+| Number | Result |
+|------|------|
+| 2 | Prime |
+| 3 | Prime |
+| 4 | Not Prime |
+| 61 | Prime |
+| 74 | Not Prime |
+
+---
 ## Technologies Used
 
 - Swift
