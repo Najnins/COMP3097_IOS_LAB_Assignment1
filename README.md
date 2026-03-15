@@ -2,9 +2,13 @@
 
 ## Student Information
 Name: Najnin Sultana  
+
 Course: COMP3097
+
 Lab: Assignment 1 
+
 Platform: iOS (SwiftUI) 
+
 IDE: Xcode  
 
 ---
