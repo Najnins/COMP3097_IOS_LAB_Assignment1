@@ -4,6 +4,12 @@
 //
 //  Created by Najnin on 2026-03-08.
 //
+// The PrimeGameViewModel handles: 
+// random number generation
+// score counting
+// timer
+// correct/wrong icon display
+// 10-attempt summary dialog
 
 import Foundation
 import SwiftUI
