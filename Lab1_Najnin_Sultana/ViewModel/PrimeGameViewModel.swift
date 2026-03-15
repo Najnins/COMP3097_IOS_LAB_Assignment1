@@ -85,7 +85,7 @@ final class PrimeGameViewModel: ObservableObject {
         showCorrectIcon = isCorrect
         showWrongIcon = !isCorrect
     }
-    
+    //10-attempt summary dialog
     private func checkForSummary() {
         if attemptCount % 10 == 0 {
             summaryMessage = """
