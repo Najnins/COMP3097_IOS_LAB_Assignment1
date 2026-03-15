@@ -8,7 +8,7 @@
 import Foundation
 
 struct PrimeHelper {
-    
+    //isPrime checks whether a number is prime.
     static func isPrime(_ number: Int) -> Bool {
         if number < 2 { return false }
         if number == 2 { return true }
