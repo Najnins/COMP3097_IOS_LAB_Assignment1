@@ -32,7 +32,7 @@ final class PrimeGameViewModel: ObservableObject {
     deinit {
         timer?.invalidate()
     }
-    
+    //If the user does not select within 5 second, a wrong answer would be recorded for them
     func startTimer() {
         timer?.invalidate()
         
